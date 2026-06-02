@@ -15,19 +15,19 @@ This is a Tamagotchi Created by me for fun and experiment. This uses Arduino Nan
 There are 4 Panels for the 3D Model. Firstly, We attach the Panel 1 and Panel 2 Together with Glue. Then we attach the Panel 3 and Panel 4 together with Glue. Then We attach the components inside them according to the cutouts Like Panel1 is for Oled Display, Panel 2 is for Battery , Panel 3 is for charging module and Panel 4 is for Arduino Nano. Wire them together according to the schmatics and upload the code to the Arduino Nano.
 
 ### Panel 1
-![Tamagotchi Panel1](3DModels\Screenshots\panel1.png)
+![Tamagotchi Panel1](3DModels/Screenshots/panel1.png)
 
 ### Panel 2
-![Tamagotchi Panel2](3DModels\Screenshots\panel2.png)
+![Tamagotchi Panel2](3DModels/Screenshots/panel2.png)
 
 ### Panel 3
-![Tamagotchi Panel3](3DModels\Screenshots\panel3.png)
+![Tamagotchi Panel3](3DModels/Screenshots/panel3.png)
 
 ### Panel 4
-![Tamagotchi Panel4](3DModels\Screenshots\panel4.png)
+![Tamagotchi Panel4](3DModels/Screenshots/panel4.png)
 
 ### Panel1 and Panel2 Glued Together
-![Tamagotchi First Part](3DModels\Screenshots\fpart.png)
+![Tamagotchi First Part](3DModels/Screenshots/fpart.png)
 
 ### Panel3 and Panel4 Glued Together
-![Tamagotchi Second Part](3DModels\Screenshots\spart.png)
+![Tamagotchi Second Part](3DModels/Screenshots/spart.png)
