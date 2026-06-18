@@ -1,0 +1,67 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-06-05T13:17:49+0530
+
+BeginCmp
+TimeStamp = c9a2e663-a18f-4c0b-8dbc-dd361bf39ff4
+Path = /87f0abf6-ee68-4541-a1e8-d60819aa227b
+Reference = SW1;
+ValeurCmp = SW_SPDT;
+IdModule  = EG1218:SW_EG1218;
+EndCmp
+
+BeginCmp
+TimeStamp = 7b56e5a2-b327-471c-a622-fc48fc8108fd
+Path = /b58c4793-0257-4363-b7fb-05dd4abf1ed5
+Reference = BT1;
+ValeurCmp = Battery;
+IdModule  = Battery:Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles;
+EndCmp
+
+BeginCmp
+TimeStamp = 620e2a4d-a5e0-436b-80ca-7037a9955d71
+Path = /ed07bf72-aebe-4150-8345-f836a3914b6f
+Reference = J1;
+ValeurCmp = Conn_01x06;
+IdModule  = TP4056-18650-master:TP4056-18650;
+EndCmp
+
+BeginCmp
+TimeStamp = 06b81621-5223-4529-bbfd-a708bb32f827
+Path = /920eaac4-8835-4b2c-9e98-7d41f27c504f
+Reference = S2;
+ValeurCmp = FSM8JH;
+IdModule  = FSM8JH:SW_FSM8JH;
+EndCmp
+
+BeginCmp
+TimeStamp = 57b1c012-22ea-4ad4-acb0-dde7b31ebe74
+Path = /58d3b31c-004d-4d69-9e4e-a8193ca1a348
+Reference = S3;
+ValeurCmp = FSM8JH;
+IdModule  = FSM8JH:SW_FSM8JH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5c7f2b7a-d836-40f6-83ec-f2aa2f13a9bf
+Path = /766d2b1c-d99b-49db-88a7-444fcf9e28f9
+Reference = S1;
+ValeurCmp = FSM8JH;
+IdModule  = FSM8JH:SW_FSM8JH;
+EndCmp
+
+BeginCmp
+TimeStamp = b6f081bb-420f-4dc2-9c23-a525916bd2b6
+Path = /45a3a9ae-97f1-4300-8709-01772b0b8e1f
+Reference = DS1;
+ValeurCmp = OLED_128X64_1.3_I2C;
+IdModule  = OLED_128X64_1.3_I2C:LCD_OLED_128X64_1.3_I2C;
+EndCmp
+
+BeginCmp
+TimeStamp = e595dc74-c3c3-49a3-b256-0b2b96b35034
+Path = /0ee384ec-ca69-451d-8815-e16863745542
+Reference = A1;
+ValeurCmp = Arduino_Nano_Every;
+IdModule  = Module:Arduino_Nano;
+EndCmp
+
+EndListe

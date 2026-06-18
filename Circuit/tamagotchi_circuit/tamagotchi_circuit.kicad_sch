@@ -3201,7 +3201,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EG1218:SW_EG1218"
 			(at 167.64 77.47 0)
 			(effects
 				(font
@@ -3489,7 +3489,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Battery:Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles"
 			(at 148.59 68.326 90)
 			(effects
 				(font
@@ -3559,7 +3559,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TP4056-18650-master:TP4056-18650"
 			(at 152.4 53.34 0)
 			(effects
 				(font

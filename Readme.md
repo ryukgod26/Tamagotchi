@@ -32,6 +32,8 @@ There are 4 Panels for the 3D Model. Firstly, We attach the Panel 1 and Panel 2 
 ### Panel3 and Panel4 Glued Together
 ![Tamagotchi Second Part](3DModels/Screenshots/spart.png)
 
+### Shell
+![Tamagotchi Shell](Images/shell.png)
 
 # BOM (Bill of Materials)
 
