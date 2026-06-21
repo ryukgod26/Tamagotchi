@@ -10,6 +10,9 @@ This is a Tamagotchi Created by me for fun and experiment. This uses Arduino Nan
  - Slide Switch x 1
 
 
+## Zine
+![zine](zine/zine.png)
+
 ## 3D Model Instructions
 
 There are 4 Panels for the 3D Model. Firstly, We attach the Panel 1 and Panel 2 Together with Glue. Then we attach the Panel 3 and Panel 4 together with Glue. Then We attach the components inside them according to the cutouts Like Panel1 is for Oled Display, Panel 2 is for Battery , Panel 3 is for charging module and Panel 4 is for Arduino Nano. Wire them together according to the schmatics and upload the code to the Arduino Nano.
