@@ -9,6 +9,8 @@ This is a Tamagotchi Created by me for fun and experiment. This uses Arduino Nan
  - Push Buttons x 3
  - Slide Switch x 1
 
+## Why
+I created this Project to Create a Compact device by using many non smd components. I just wanted to create something that I can Play wit in free time.
 
 ## Zine
 ![zine](zine/zine.png)
